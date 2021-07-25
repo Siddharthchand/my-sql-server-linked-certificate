@@ -1,2 +1,2 @@
-# my-sql-server-linked-certificate
+# my-sql-server-LinkedIn-certificate
 sql server certification
